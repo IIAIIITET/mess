@@ -1,6 +1,6 @@
 <?php
 
-date_default_timezone_set('Europe/Moscow'); //Устанавливает часовой пояс
+date_default_timezone_set('Europe/Moscow'); 
 
 $Login = $_GET['login'];
 $Msg = $_GET['mess'];
